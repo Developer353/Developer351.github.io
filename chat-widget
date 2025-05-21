@@ -1,5 +1,20 @@
-<script 
-  src="https://widgets.leadconnectorhq.com/loader.js"  
-  data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" 
- data-widget-id="682b26851d88404da5eed7c4"   > 
- </script>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My Homepage</title>
+</head>
+<body>
+
+  <h1>Welcome to My Website</h1>
+  <p>This is the homepage.</p>
+
+  <!-- LeadConnector Chat Widget -->
+  <script 
+    src="https://widgets.leadconnectorhq.com/loader.js"  
+    data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" 
+    data-widget-id="682b26851d88404da5eed7c4"> 
+  </script>
+
+</body>
+</html>
