@@ -48,7 +48,7 @@ function MainLayout() {
       {/* ✅ Cover Banner Image (only on homepage) */}
       {location.pathname === '/' && (
         <img
-          src="images/vblush-email-banner.png"
+          src="images/vblush-email-banner.jpg"
           alt="Vblush Email Banner"
           className="w-full h-auto max-h-[300px] md:max-h-[400px] lg:max-h-[600px] object-cover"
         />
